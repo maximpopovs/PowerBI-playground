@@ -17,12 +17,14 @@ Small project to sharpen skills in PowerBI and Azure cloud services for ETL, wit
 
 ## Data Engineering part of scope
 - Ingestion
-  - pull data from URLs using Azure Functions (Python) or Logic Apps
+  - pull data from web using Azure Functions (Python) or Logic Apps
   - Azure Blob Storage to store raw data as JSON/CSV
+- Transformation (ETL)
+  - Azure Functions for ETL. Not the best ETL, but in order to practice Python it is gonna work. 
 - Storage
-  - Use 
-- Transformation
+  - Use Parquet format in Blob Storage for processed data 
 - Serving
+  - 
 
 ## Data Visualization part of scope.
 - Trend analysis
