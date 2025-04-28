@@ -20,7 +20,7 @@ Small project to sharpen skills in PowerBI and Azure cloud services for ETL, wit
   - pull data from web using Azure Functions (Python) or Logic Apps
   - Azure Blob Storage to store raw data as JSON/CSV
 - Transformation (ETL)
-  - Azure Functions for ETL. Not the best ETL, but in order to practice Python it is gonna work. 
+  - Azure Functions for ETL. Not the best ETL, but in order to practice Python it is gonna work. Databricks or Azure Data Factory planned as next steps to try another approaches to ETL part of scope. 
 - Storage
   - Use Parquet format in Blob Storage for processed data 
 - Serving
