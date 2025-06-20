@@ -11,5 +11,7 @@ if(resp.status_code==200):
     print("timestamp = {0}".format(data["timestamp"]))
     print("version = {0}".format(data["version"]))
     print("format = {0}".format(data["format"]))
+    print("start index = {0}".format(data["startIndex"]))
+
 else:
     print(resp.status_code)
